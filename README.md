@@ -51,13 +51,13 @@ python CodeCloak.py
 Запуск GUI
 
 ```bash
-python codec cloak.py
+python CodeCloak.py
 ```
 
 Запуск CLI
 
 ```bash
-python codec cloak.py --input script.py --level hard --test
+python codec CodeCloak.py --input script.py --level hard --test
 ```
 
 ---
@@ -97,5 +97,4 @@ MIT License © 2025
 
 ---
 
-Якщо хочеш, я можу **оформити цей README з ASCII-арт логотипом "CodeCloak" у верхній частині**, щоб виглядало ще більш “хакерсько” для GitHub.
-Хочеш, щоб я додав?
+
