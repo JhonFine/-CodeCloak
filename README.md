@@ -39,9 +39,9 @@
 📦 Встановлення
 
 ```bash
-git clone https://github.com/username/CodeCloak.git
+git clone https://github.com/JhonFine/CodeCloak.git
 cd CodeCloak
-pip install -r requirements.txt
+python CodeCloak.py
 ```
 
 ---
